@@ -1,8 +1,8 @@
 [user]
-	email = psantaclara@rjmetrics.com
-	name = Paul Santa Clara 
+	email = ccapurso@rjmetrics.com
+	name = Chris Capurso
 [core]
-	excludesfile = /home/psantaclara/.gitignore
+	excludesfile = /home/ccapurso/.gitignore
 [push]
     default = upstream
 [color]
