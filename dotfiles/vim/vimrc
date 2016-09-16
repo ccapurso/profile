@@ -71,7 +71,6 @@ let g:solarized_termcolors=256
 set background=dark
 colorscheme apprentice "seoul256
 syntax on
-"set relativenumber
 set nu
 set cursorline
 set numberwidth=5
@@ -84,8 +83,6 @@ set noswapfile
 set completeopt=menu,preview
 set complete-=t,i
 set colorcolumn=80
-
-autocmd BufEnter * set list
 
 let mapleader = ","
 
